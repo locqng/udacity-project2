@@ -19,6 +19,8 @@ To complete this project, you will need to:
 
 Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
 
+Working URL: http://project2-dev222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg%26q=60%26w=3000%26ixlib=rb-4.0.3%26ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D
+
 ## License
 
 [License](LICENSE.txt)
