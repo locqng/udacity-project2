@@ -25,7 +25,7 @@ Working URL: http://project2-dev222.us-east-1.elasticbeanstalk.com/filteredimage
 
 [License](LICENSE.txt)
 
-## Beanstalk Dashboard
+## Beanstalk Dashboard Screenshots
 
 [Dashboard1](Dashboard1.png)
 [Dashboard2](Dashboard2.png)
